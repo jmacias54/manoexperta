@@ -14,3 +14,15 @@ En Google Cloud SDK  :
  
  
  **** dev-manoexperta-206420  es el proyect id en el GAE
+
+ 
+ 
+ 
+ 
+ 
+ Referencias :
+ 
+ https://classroom.udacity.com/courses/ud859
+ https://www.youtube.com/watch?v=9XFBNoZeS9A&list=PLuC7OUdarKuZG225SIGqLFoBjNhq-RJYa
+ https://www.youtube.com/watch?v=mAhah-vq0Iw
+ https://cloud.google.com/community/tutorials/run-spring-petclinic-on-app-engine-cloudsql
